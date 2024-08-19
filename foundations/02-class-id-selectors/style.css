@@ -1,0 +1,15 @@
+.Odd 
+    {background-color: #db8094; 
+    font-family: verdana, "DejaVu Sans", sans-serif}
+
+.Even#Two
+        {color: blue;
+        font-size: 36px}
+
+.Odd#Three
+        {font-size: 24px}
+
+.Even#Four
+        {background-color: rgb(164, 225, 164);
+        font-size: 24px;
+        font-weight: bold}
